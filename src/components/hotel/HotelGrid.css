@@ -1,0 +1,29 @@
+.hotel-grid{
+
+    padding:80px 0;
+
+    background:#f8fafc;
+
+}
+
+.section-title{
+
+    font-size:36px;
+
+    text-align:center;
+
+    margin-bottom:50px;
+
+}
+
+.grid{
+
+    display:grid;
+
+    grid-template-columns:repeat(3,1fr);
+
+    gap:30px;
+
+    align-items:stretch;
+
+}

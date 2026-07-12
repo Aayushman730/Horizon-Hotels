@@ -78,3 +78,17 @@ font-size:18px;
 background:#1d4ed8;
 
 }
+
+@media (max-width:768px){
+
+.search-section{
+    margin-top:20px;
+}
+
+.search-box{
+    grid-template-columns:1fr;
+    width:95%;
+    padding:20px;
+}
+
+}
